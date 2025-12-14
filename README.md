@@ -21,8 +21,7 @@ I'm a passionate admirer of **Lionel Messi** and a proud supporter of **FC Barce
 <div style="padding:20px; border-radius:20px; background: #0b0b0b; box-shadow: 0 0 25px #2affd540; border:1px solid #232323; text-align:center;">
 
 ### <span style="font-size:22px; font-weight:700; background: linear-gradient(90deg,#ff9a9e,#fad0c4); -webkit-background-clip: text; color: transparent;">Languages & Tools</span>
-
-
+C · C++ · Python · HTML · CSS · TailwindCSS · JavaScript (Basic) · MySQL
 </div>
 
 ---
