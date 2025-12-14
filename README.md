@@ -26,7 +26,7 @@
     "></div>
     
     <!-- Profile Image -->
-    <img src="https://avatars.githubusercontent.com/Hasibul-Nihad?v=4" 
+    <img src="https://avatars.githubusercontent.com/nihad-cupid?v=4" 
          alt="Nihad's Profile" 
          style="
            width: 150px;
@@ -146,6 +146,8 @@
     Visca Barça, Visca el Code!
   </div>
 </div>
+
+---
 <br>
 <br>
 <br>
