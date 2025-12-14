@@ -52,8 +52,11 @@ Let's build something amazing or just talk about the beautiful game!
 
 <br>
 <div align="center">
-  <sub> > **Visca Barça, Visca el Code!** 💙❤️
-*Just as tiki-taka requires precision and teamwork, great code demands clarity and collaboration.* </sub>
-</div>
-
+  
+  ### ⚽ **Visca Barça, Visca el Code!** 💙❤️
+  
+  *"Just as tiki-taka requires precision and teamwork, great code demands clarity and collaboration."*
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Hasibul-Nihad&color=004D98&style=flat-square&label=PROFILE+VIEWS)
+  
 </div>
