@@ -1,10 +1,6 @@
-
-<!-- Football-themed dynamic header -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=A62639&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Hi%2C+I'm+Nihad!+%F0%9F%91%8B;Tech+Explorer+%7C+Bar%C3%A7a+Devotee;Where+imagination+blends+with+clean+code" alt="Typing Intro" />
-  
-  <!-- FC Barcelona Color Strip -->
-  <div style="background: linear-gradient(to right, #A50044 0%, #004D98 50%, #A50044 100%); height: 4px; width: 100%; margin: 10px 0;"></div>
+<div style="background: linear-gradient(to right, #A50044 0%, #004D98 50%, #A50044 100%); height: 4px; width: 100%; margin: 10px 0;"></div>
 </div>
 <br>
 <br>
