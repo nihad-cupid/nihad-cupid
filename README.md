@@ -1,8 +1,8 @@
-# 🌌✨ **Welcome to My Futuristic Universe — I'm Nihad!** 👋
+# 🌌✨ **Hi, I'm Nihad!** 👋
 
 <div align="center" style="margin-top:10px;">
 
-### <span style="font-size:30px; font-weight:700; background: linear-gradient(90deg,#00eaff,#8a2be2,#ff5f6d); -webkit-background-clip: text; color: transparent;">Tech Explorer • Digital Creator • Vision-Driven Learner</span>
+### <span style="font-size:30px; font-weight:700; background: linear-gradient(90deg,#00eaff,#8a2be2,#ff5f6d); -webkit-background-clip: text; color: transparent;">Tech Explorer</span>
 
 #### <span style="font-size:18px; opacity:0.9;">Where imagination blends with clean code and modern UI aesthetics.</span>
 
@@ -13,7 +13,6 @@
 ## ⚡ About Me
 <div style="padding:15px; border-radius:20px; background: #0d0d0d; box-shadow: 0 0 25px #3500ff40; border:1px solid #2e2e2e;">
 I'm a passionate admirer of **Lionel Messi** and a proud supporter of **FC Barcelona**. 💙❤️
-I love futuristic design, neon aesthetics, and creating digital experiences that feel alive.
 </div>
 
 ---
