@@ -51,13 +51,13 @@ Let's build something amazing or just talk about the beautiful game!
 ---
 
 
-*“Some people think football is a matter of life and death. I assure you, it's much more serious than that.” – Bill Shankly*
-*(The same dedication applies to my code.)*
+
 
 
 <br>
 <div align="center">
-  <sub> Crafted with 💙❤️ (Barça colors) and ⌨️ by Nihad </sub>
+  <sub> > **Visca Barça, Visca el Code!** 💙❤️
+*Just as tiki-taka requires precision and teamwork, great code demands clarity and collaboration.* </sub>
 </div>
 
 </div>
