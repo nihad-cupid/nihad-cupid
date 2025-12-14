@@ -5,8 +5,11 @@
   
   <!-- FC Barcelona Color Strip -->
   <div style="background: linear-gradient(to right, #A50044 0%, #004D98 50%, #A50044 100%); height: 4px; width: 100%; margin: 10px 0;"></div>
-
 </div>
+
+
+
+
 ### ⚡ **My Playbook (Skills & Tech Stack)**
 My toolkit is designed for building robust foundations and sleek interfaces.
 
