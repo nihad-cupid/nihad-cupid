@@ -1,42 +1,50 @@
 # 🌌✨ **Hi, I'm Nihad!** 👋
 
-<div align="center" style="margin-top:10px;">
-
-### <span style="font-size:30px; font-weight:700; background: linear-gradient(90deg,#00eaff,#8a2be2,#ff5f6d); -webkit-background-clip: text; color: transparent;">Tech Explorer</span>
-
-#### <span style="font-size:18px; opacity:0.9;">Where imagination blends with clean code and modern UI aesthetics.</span>
+<!-- Football-themed dynamic header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=A62639&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Hi%2C+I'm+Nihad!+%F0%9F%91%8B;Tech+Explorer+%7C+Bar%C3%A7a+Devotee;Where+imagination+blends+with+clean+code" alt="Typing Intro" />
+  
+  <!-- FC Barcelona Color Strip -->
+  <div style="background: linear-gradient(to right, #A50044 0%, #004D98 50%, #A50044 100%); height: 4px; width: 100%; margin: 10px 0;"></div>
 
 </div>
+### ⚡ **My Playbook (Skills & Tech Stack)**
+My toolkit is designed for building robust foundations and sleek interfaces.
+
+| **Domain**          | **Technologies & Tools**                                                                                                   |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------|
+| **Core & Logic**    | `C` `C++` `Python`                                                                                                         |
+| **Web & Interface** | `HTML5` `CSS3` `TailwindCSS` `JavaScript`                                                                                  |
+| **Data & Storage**  | `MySQL`                                                                                                                    |
+| **Tools & Design**  | `Git` `GitHub` `VS Code` `Figma`                                                                                           |
 
 ---
 
-## ⚡ About Me
-<div style="padding:15px; border-radius:20px; background: #0d0d0d; box-shadow: 0 0 25px #3500ff40; border:1px solid #2e2e2e;">
-I'm a passionate admirer of **Lionel Messi** and a proud supporter of **FC Barcelona**. 💙❤️
-</div>
+### 💬 **Beyond the Code**
+*"It took me 17 years and 114 days to become an overnight success."* – Lionel Messi
+This quote resonates deeply with my journey in tech. Mastery is not an event; it's a process of continuous learning, iteration, and passion.
+
+- 🔭 **Currently Exploring:** Deepening my JavaScript fundamentals and planning a full-stack project.
+- 🌱 **Learning Goal:** To build interactive UIs with React.js.
+- ⚽ **Fun Fact:** I can discuss Barça's tactics from the Cruyff era to Xavi's present.
+- 🤝 **Open to:** Collaborative projects, hackathons, or discussing tech/football anytime!
 
 ---
 
-## 🛠️ Skills
-<div style="padding:20px; border-radius:20px; background: #0b0b0b; box-shadow: 0 0 25px #2affd540; border:1px solid #232323; text-align:center;">
+### 📣 **Connect With Me**
+Let's build something amazing or just talk about the beautiful game!
 
-### <span style="font-size:22px; font-weight:700; background: linear-gradient(90deg,#ff9a9e,#fad0c4); -webkit-background-clip: text; color: transparent;">Languages & Tools</span>
-C · C++ · Python · HTML · CSS · TailwindCSS · JavaScript (Basic) · MySQL
-</div>
-
----
-
-## 🔗 Connect With Me
-<div style="padding:20px; border-radius:20px; background:#0c0c0c; box-shadow:0 0 25px #00eaff40; border:1px solid #2b2b2b;">
-
-🔵 **LinkedIn:** https://www.linkedin.com/in/hasibul-nihad/  
-🟣 **X:** https://x.com/Hasibul_Nihad
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasibul-nihad/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Hasibul_Nihad)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasibul-Nihad)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hasibulnihad@gmail.com)
 
 ---
-
-<div align="center" style="margin-top:20px; background: linear-gradient(90deg,#8a2be2,#00eaff,#ff5f6d); padding:10px; border-radius:15px; box-shadow: 0 0 20px #6e00ff60;">
-
-### ⭐ *Thanks for visiting my GitHub space — Feel free to star my repositories!* ⭐
+*“Some people think football is a matter of life and death. I assure you, it's much more serious than that.” – Bill Shankly*
+*(The same dedication applies to my code.)*
+<br>
+<div align="center">
+  <sub> Crafted with 💙❤️ (Barça colors) and ⌨️ by Nihad </sub>
+</div>
 
 </div>
