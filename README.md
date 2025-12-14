@@ -1,4 +1,3 @@
-# 🌌✨ **Hi, I'm Nihad!** 👋
 
 <!-- Football-themed dynamic header -->
 <div align="center">
@@ -24,8 +23,9 @@ My toolkit is designed for building robust foundations and sleek interfaces.
 *"It took me 17 years and 114 days to become an overnight success."* – Lionel Messi
 This quote resonates deeply with my journey in tech. Mastery is not an event; it's a process of continuous learning, iteration, and passion.
 
+
+
 - 🔭 **Currently Exploring:** Deepening my JavaScript fundamentals and planning a full-stack project.
-- 🌱 **Learning Goal:** To build interactive UIs with React.js.
 - ⚽ **Fun Fact:** I can discuss Barça's tactics from the Cruyff era to Xavi's present.
 - 🤝 **Open to:** Collaborative projects, hackathons, or discussing tech/football anytime!
 
@@ -35,13 +35,20 @@ This quote resonates deeply with my journey in tech. Mastery is not an event; it
 Let's build something amazing or just talk about the beautiful game!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasibul-nihad/)
+
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Hasibul_Nihad)
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasibul-Nihad)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hasibulnihad@gmail.com)
 
 ---
+
+
 *“Some people think football is a matter of life and death. I assure you, it's much more serious than that.” – Bill Shankly*
 *(The same dedication applies to my code.)*
+
+
 <br>
 <div align="center">
   <sub> Crafted with 💙❤️ (Barça colors) and ⌨️ by Nihad </sub>
